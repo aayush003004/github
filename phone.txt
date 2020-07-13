@@ -4,3 +4,5 @@ cover
 strachless
 gorilla
 pen
+cover
+glass gaurd
