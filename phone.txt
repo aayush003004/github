@@ -2,3 +2,5 @@ phone
 earphone
 cover
 strachless
+gorilla
+pen
